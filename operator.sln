@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator", "operator\operator.csproj", "{788468E5-9A42-4E45-83BA-4AAABB8E7C96}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "operator installerfile", "operator installerfile\operator installerfile.vdproj", "{AC6CBE6C-A948-4624-9784-B4C254F86929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788468E5-9A42-4E45-83BA-4AAABB8E7C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788468E5-9A42-4E45-83BA-4AAABB8E7C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788468E5-9A42-4E45-83BA-4AAABB8E7C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788468E5-9A42-4E45-83BA-4AAABB8E7C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6CBE6C-A948-4624-9784-B4C254F86929}.Debug|Any CPU.ActiveCfg = Debug
+		{AC6CBE6C-A948-4624-9784-B4C254F86929}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
